@@ -2,10 +2,34 @@ html {
   cursor: url(https://i.imgur.com/y9g74Mp.png), default;
 }
 
-a, .btn, .socicon{
+a, .btn, .socicon,.roselle{
 cursor: url(https://i.imgur.com/N4uhFPl.png), auto;	
 }
 
+.design,.draw{
+  text-decoration: none;
+  color: #5f6366;
+  padding: .5rem;
+}
+
+.design:hover{
+background-color: #ffffff;
+color: rgb(165, 167, 60);
+}
+
+.draw:hover{
+  background-color: #bdbdbd;
+  color: #ffffffd0;
+  }
+
+.roselle{
+  background-color: rgb(250, 167, 71);
+}  
+
+.roselle:hover{
+  color: #333333;
+  background-color: rgb(233, 214, 106);
+}
 .btn {
   border-width: 2px;
 }
