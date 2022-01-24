@@ -13,22 +13,22 @@ cursor: url(https://i.imgur.com/N4uhFPl.png), auto;
 }
 
 .design:hover{
-background-color: #ffffff;
-color: rgb(165, 167, 60);
+background-color: #F88F23;
+color: #ffffffd0;
 }
 
 .draw:hover{
-  background-color: #bdbdbd;
+  background-color: #FBB931;
   color: #ffffffd0;
   }
 
 .roselle{
-  background-color: rgb(250, 167, 71);
+  color: #333333;
 }  
 
 .roselle:hover{
-  color: #333333;
-  background-color: rgb(233, 214, 106);
+  color: #ffffffd0;
+  background-color: #EC6014;
 }
 
 .btn {
@@ -38,7 +38,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -46,7 +46,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -54,7 +54,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -62,7 +62,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -70,7 +70,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -631,7 +631,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -645,7 +645,7 @@ a:hover {
   border-color: #fff8da !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Bellota Text', display;
+  font-family: 'Poppins', display;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -842,7 +842,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.7);
+  background: #EC6014 !important;
+  opacity: 0.75 !important;
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1087,7 +1088,7 @@ a {
 .cid-sFGMfPD7iT {
   padding-top: 17rem;
   padding-bottom: 16rem;
-  background-image: url("../../../assets/images/dotpattern.png");
+  background-image: url("../../../assets/images/background.png");
 }
 .cid-sFGMfPD7iT .mbr-section-title {
   text-align: center;
@@ -1101,7 +1102,7 @@ a {
 .cid-sUH1lXL1gL {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #fff0b0;
+  background-color: #FBB931;
 }
 .cid-sUH1lXL1gL .item {
   padding-bottom: 2rem;
@@ -1357,7 +1358,7 @@ a {
 .cid-sUAC0VnnOp {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/dotpattern.png");
+  background-image: url("../../../assets/images/background.png");
 }
 .cid-sUAC0VnnOp .mbr-section-title {
   color: #232323;
@@ -1365,7 +1366,7 @@ a {
 .cid-sUADctdYzw {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #fff0b0;
+  background-color: #EC6014;
 }
 .cid-sUADctdYzw .bg-facebook {
   background: #1778f2;
@@ -1925,7 +1926,7 @@ a {
 .cid-sFGSOnwtIp {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #fff0b0;
+  background-color: #EC6014;
   overflow: hidden;
 }
 .cid-sFGSOnwtIp .media-container-row .mbr-text {
@@ -2278,7 +2279,7 @@ a {
 .cid-sUA8YpnOEm {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fff0b0;
+  background-color: #FBB931;
 }
 @media (min-width: 992px) {
   .cid-sUA8YpnOEm .text-wrapper {
@@ -2297,7 +2298,7 @@ a {
 .cid-sUAdVbVB90 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #fff0b0;
+  background-color: #FBB931;
 }
 .cid-sUAdVbVB90 .media-container-row {
   justify-content: space-between;
@@ -2341,7 +2342,7 @@ a {
 .cid-sFGSOnwtIp {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #fff0b0;
+  background-color: #EC6014;
   overflow: hidden;
 }
 .cid-sFGSOnwtIp .media-container-row .mbr-text {
